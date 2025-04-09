@@ -34,3 +34,6 @@ Following are the steps performed for this Project
 1. Upload the `index.html` to an AWS S3 bucket.
 2. Enable static website hosting in S3.
 3. Access the website via the provided endpoint.
+
+
+
