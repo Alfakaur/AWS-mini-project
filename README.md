@@ -27,7 +27,7 @@ Following are the steps performed for this Project
    - After uploading the `index.html` file, I used the S3 endpoint URL to access the website in the browser.
 
  Technologies Used:
-- AWS - S3, IAM
+- AWS - S3, IAM, CLI
 - HTML - Basic static website content
 
  How to Run the Project:
